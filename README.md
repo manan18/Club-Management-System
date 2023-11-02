@@ -25,7 +25,7 @@ Before setting up the project, ensure that you have the following prerequisites 
 
 ### Installation
 1. Clone the repository to your local machine:
-2. git clone https://github.com/yourusername/Club-Management-System.git
+2. git clone https://github.com/Mann003/Club-Management-System.git
 3. 4. Create a `.env` file in the project's root directory and configure it with your MongoDB connection details and any other necessary environment variables:
 
 ```env
