@@ -43,4 +43,3 @@ YOUR_OTHER_VARIABLE=value
    
    ```start
    npm start
-
