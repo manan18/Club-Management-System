@@ -39,7 +39,8 @@ MONGODB_URI=your_mongodb_uri
 YOUR_OTHER_VARIABLE=value
 ```
 6. Start the application:
+
+   
    ```start
    npm start
-```
 
